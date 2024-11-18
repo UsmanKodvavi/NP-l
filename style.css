@@ -1,0 +1,25 @@
+*{
+    padding: 0%;
+    margin:0%;
+    box-sizing: border-box;
+}
+.Notes{
+    color: blue;
+    font-size:50px ;
+}
+.dd{
+    background-color: #7a7782;
+}
+.y1{
+    color: black;
+}
+.it{
+    width: 100%;
+    border-radius: 10px;
+}
+.bt{
+   margin-left: 300px;
+   margin-top: 20px;
+   width: 150px; 
+   border: 2px solid black;
+}
